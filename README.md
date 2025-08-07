@@ -4,7 +4,7 @@
 주요 내용은 데이터 전처리, 시각화, 통계 분석, 머신러닝 모델링 등입니다.
 
 ## 주요 폴더
-- `book/` : 빅데이터 분석기사 실습 코드
+- `book/` : 데이터 분석 예제 풀이 코드
 
 ## 사용 기술
 - Python (pandas, numpy, matplotlib, scikit-learn)
